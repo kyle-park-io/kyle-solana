@@ -1,0 +1,21 @@
+app:
+  name: 'Solana-Subscription'
+  version: '1.0.0'
+
+rpc:
+  prod:
+    http: https://api.mainnet-beta.solana.com
+    ws: wss://api.mainnet-beta.solana.com
+  dev:
+    http: https://api.devnet.solana.com
+    ws: wss://api.devnet.solana.com
+
+programs:
+  - name:
+    programs:
+      - name:
+      - address:
+  - name:
+    programs:
+      - name:
+      - address:
